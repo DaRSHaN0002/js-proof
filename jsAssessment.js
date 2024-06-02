@@ -1,9 +1,9 @@
 /*
 Assessment Requirements
-1. Create a variable that can hold a number of IIFT's. What type of variable might this be?
+1. Create a variable that can hold a number of NFT's. What type of variable might this be?
 2. Create an object inside your mintiFT function that will hold the metadata for your INFTS. The metadata values will be passed to the function as parameters. When the IFT is ready, you will store it in the variable you created in step 1
-3. Your listlIFTs() function will print all of your IFTs metadata to the console (1.e. console.log("Hame:"someFT.name))
-4. For good measure, getTotalSupply() should return the number of IIFT's you have created
+3. Your listlIFTs() function will print all of your NFTs metadata to the console (1.e. console.log("Hame:"someFT.name))
+4. For good measure, getTotalSupply() should return the number of NFT's you have created
 */
 // create a variable to hold your NFT's
 const NFTs = []
